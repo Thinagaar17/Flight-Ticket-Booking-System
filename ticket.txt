@@ -1,0 +1,6 @@
+THU2311,Fatin,1476724,siti@gmail.com,1A
+THU2311,MD Fuad,8248537,md@gmail.com,1B
+FRI2411,Fatimah,1234567,fatimah@gmail.com,1A
+SAT2511,Prasanth,3869068,pras@gmail.com,1B
+SAT2511,Tharvin,54321,tharvin@gmail.com,1C
+SAT2511,Thinagaar,990317027785, thina@gmail.com,1D
